@@ -70,7 +70,7 @@ const Projects = () => {
             </div>
 
             <div className='text-center mt-12'>
-                <a href="https://github.com/SienthHansaja" className='cosmic-button w-fit flex items-center mx-auto gap-2' target='_blank'>
+                <a href="https://github.com/SinethHansaja" className='cosmic-button w-fit flex items-center mx-auto gap-2' target='_blank'>
                     Visit My Github <ArrowRight size={16}/></a>
             </div>
 
