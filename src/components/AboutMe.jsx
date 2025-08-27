@@ -25,8 +25,8 @@ const AboutMe = () => {
 
                     <a href="#contact" className='cosmic-button'> Get In Touch</a>
 
-                    <a href="/public/pdf/Sineth Hansaja.pdf" className='px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300' download>
-                    Download CV 
+                    <a href="/pdf/Sineth Hansaja.pdf" className='px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300' download>
+                    Download CV
                     </a>
                 </div>
 
