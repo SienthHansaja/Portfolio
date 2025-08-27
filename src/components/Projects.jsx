@@ -9,7 +9,7 @@ const Projects = () => {
             title:"Daycare Service Management System",
             Description:"A web app that helps parents track their child’s activities and daycare staff manage daily tasks efficiently",
             image:"/projects/daycare.png",
-            githubUrl:"https://github.com/SienthHansaja/Kiddo-Ville-Day-Care-Service-Management-App",
+            githubUrl:"https://github.com/SinethHansaja/KiddoVille-UI_UX",
             tags:["html","javaScript","php"]
         },
         {
@@ -17,7 +17,7 @@ const Projects = () => {
             title:"Resturant Food Ordering System",
             Description:"A full-stack system for placing and managing food orders, with roles for users, chefs, receptionist and staff",
             image:"/projects/foody.png",
-            githubUrl:"https://github.com/SienthHansaja/Foody--Restaurant-Food-Ordering-System",
+            githubUrl:"https://github.com/SinethHansaja/Food-Ordering-System-MERN",
             tags:["react","node","express","mongodb"]
         },
         {
@@ -25,7 +25,7 @@ const Projects = () => {
             title:"Simple Spring Boot User Management Application",
             Description:"A lightweight application for managing user accounts with CRUD operations, built using Spring Boot.",
             image:"/projects/daycare.png",
-            githubUrl:"https://github.com/SienthHansaja/-Java-React-REST-API-User-Management-",
+            githubUrl:"https://github.com/SinethHansaja/-Java-React-REST-API-User-Management-",
             tags:["springboot","java","react"]
         }
 
