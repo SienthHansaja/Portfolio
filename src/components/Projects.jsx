@@ -24,7 +24,7 @@ const Projects = () => {
             id:1,
             title:"Simple Spring Boot User Management Application",
             Description:"A lightweight application for managing user accounts with CRUD operations, built using Spring Boot.",
-            image:"/projects/daycare.png",
+            image:"/projects/user.png",
             githubUrl:"https://github.com/SinethHansaja/-Java-React-REST-API-User-Management-",
             tags:["springboot","java","react"]
         }
